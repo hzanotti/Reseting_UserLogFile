@@ -1,0 +1,9 @@
+Reseting user log file
+# pam_tally2 -r
+# pam_tally2
+
+Reseting user password after clean User Log
+# passwd YourUserName or for Someone else UserName
+
+Checking user logs
+# last
